@@ -1,6 +1,8 @@
 # DiscordPyLoLTracker
 # UTILISER  
-```bot = commands.Bot(command_prefix=',')```  
+```py
+bot = commands.Bot(command_prefix=',')
+```  
 ```,lolstat NOMDINVOCATEUR``` puis suivre les informations.
 # PERMISSIONS BOTS  
 * attach_files  
