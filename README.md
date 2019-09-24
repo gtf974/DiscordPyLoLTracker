@@ -1,8 +1,9 @@
 # DiscordPyLoLTracker
 <h1>   UTILISER</h1>
-   <p>COMMANDEPREFIXlolstat NOMDINVOCATEUR
-<h2>   PERMISSIONS BOTS</h2>
-   <p>attach_files
-   <p>embed_message
-   <p>read_messages
-   <p>send_messages
+`bot = commands.Bot(command_prefix=',')`
+`,lolstat NOMDINVOCATEUR` puis suivre les informations.
+<h1>   PERMISSIONS BOTS</h1>
+* attach_files  
+* embed_message  
+* read_messages  
+* send_messages  
