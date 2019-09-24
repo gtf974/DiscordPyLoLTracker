@@ -1,5 +1,5 @@
 # DiscordPyLoLTracker
-# UTILISER  
+# UTILISATION  
 ```py
 bot = commands.Bot(command_prefix=',')
 ```  
