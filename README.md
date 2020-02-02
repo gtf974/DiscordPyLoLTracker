@@ -3,7 +3,7 @@
 ```py
 bot = commands.Bot(command_prefix=',')
 ```
-###### Dans *lolapi.py* 
+###### Dans *lolapi.py*:
 * Remplacez tous les `LOLAPITOKEN` par votre [clé API](https://developer.riotgames.com/)  
 ###### Dans *Discord*:
 * Tapez `,lolstat NOMDINVOCATEUR`  
